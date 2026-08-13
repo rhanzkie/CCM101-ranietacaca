@@ -56,3 +56,14 @@ AWS is a suitable platform for a global e-commerce company because it provides s
 | University | Microsoft Azure |
 | AI Research Company | Google Cloud Platform |
 | Global E-Commerce Company | AWS |
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Broad services and scalable infrastructure can support a growing startup. |
+| Enterprise Organization | AWS | AWS provides a large range of enterprise cloud services. |
+| Microsoft Environment | Microsoft Azure | Azure integrates strongly with Microsoft technologies. |
+| AI / Machine Learning | Google Cloud Platform | Google Cloud provides strong AI, machine learning, and data capabilities. |
+| Kubernetes Deployment | Google Cloud Platform | Google Kubernetes Engine provides managed Kubernetes capabilities. |
+| Global Web Application | AWS | AWS provides global infrastructure and scalable services for worldwide applications. |
